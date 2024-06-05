@@ -1,0 +1,5 @@
+tomate,verdura,34.0,57
+cebolla ,verdura,55.0,78
+zanahoria,verdura,22.0,23
+manzana,fruta,28.0,67
+pera,fruta,28.5,43
